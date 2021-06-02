@@ -1,5 +1,5 @@
 import React from 'react';
-import "../src/assets/scss/bootstrap-5.0.0-beta3/scss/style.scss";
+import "../src/assets/scss/style.scss";
 
 function App() {
     return ( <
